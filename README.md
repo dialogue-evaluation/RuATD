@@ -10,7 +10,6 @@ Text in English is below
 
 ## Полезные ссылки
 
-- Репозиторий: TBA
 - Платформа: [kaggle](https://www.kaggle.com/c/ruatd-2022)
 - Группа в телеграм: [tlg](https://t.me/ruatd)
 
@@ -103,7 +102,6 @@ Modern large language models for text generation show impressive results: they c
 
 ## Useful links
 
-- Repo: TBA
 - Shared task platform: [kaggle](https://www.kaggle.com/c/ruatd-2022)
 - Telegram chat: [tlg](https://t.me/ruatd)
 
