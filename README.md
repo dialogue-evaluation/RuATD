@@ -52,7 +52,7 @@ Text in English is below
 
 Организаторы предоставят два базовых решения задачи:
 
-- $tf-idf$ + логистическая регрессия
+- **tf-idf** + логистическая регрессия
 - дообучение модели ruBERT
 
 Код базовых решений будет доступен в репозитории соревнования. 
@@ -145,7 +145,7 @@ For the Shared Task evaluation we use standard metrics for classification, such 
 
 We provide the the baseline and public its code in the open source. There are two baselines:
 
-- $tf-idf$  + logistic regression
+- **tf-idf**  + logistic regression
 - fine-tuning BERT
 
 ## Participation rules
