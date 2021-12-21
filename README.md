@@ -1,6 +1,6 @@
 
 
-# RuATD
+# RuATD (Russian Artificial Text Detection)
 
 [English](https://github.com/dialogue-evaluation/RuATD/blob/main/en_README.md)
 
