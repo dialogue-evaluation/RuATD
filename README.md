@@ -14,7 +14,7 @@
 
 - Бинарная постановка: [kaggle](https://www.kaggle.com/c/ruatd-2022-bi/)
 - Мультиклассовая постановка: [kaggle](https://www.kaggle.com/c/ruatd-2022-multi-task/)
-- Группа в телеграм: [tlg](https://t.me/ruatd)
+- Группа в телеграм: [tg](https://t.me/ruatd)
 
 ## Постановка задачи
 
