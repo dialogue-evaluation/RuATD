@@ -69,8 +69,9 @@ We provide the the baseline and public its code in the open source. There are tw
 
 - End of December 2021 - start January 2022 – publication of the train set
 - 17 January 2022 – The shared task is open
-- 25 February 2022, 9 AM (Moscow time) – The shared task is closed
-- 1-2 March 2022 - official results
+- 7 March 2022, 9 AM (Moscow time) – The shared task is closed
+- 8 March 2020 - preliminary results
+- 9-13 March 2022 - models peer reveiw and official results
 - 15 March 2022 – articles submissions
 
 ## Organizing committee
