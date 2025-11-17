@@ -2,8 +2,36 @@
 
 # RuATD (Russian Artificial Text Detection)
 
-[English](https://github.com/dialogue-evaluation/RuATD/blob/main/en_README.md)
+[English README](https://github.com/dialogue-evaluation/RuATD/blob/main/en_README.md)
 
+Расширенная версия корпуса RuATD представлена как Corpus of Artificial Texts (CoAT).
+* HuggingFace: [hf.co/datasets/RussianNLP/coat](https://huggingface.co/datasets/RussianNLP/coat)
+* RuATD paper: [arxiv.org/abs/2206.01583](https://arxiv.org/abs/2206.01583) (Dialogue 2022)
+* CoAT paper: [cambridge.org/core/journals/natural-language-processing/article/coat-corpus-of-artificial-texts](https://www.cambridge.org/core/journals/natural-language-processing/article/coat-corpus-of-artificial-texts/7E2CA97E21663CC031FB6BAFE56E0046) (NLP 2025)
+
+## Цитирование
+
+```
+@article{shamardina2025coat,
+  title={CoAT: Corpus of artificial texts},
+  author={Shamardina, Tatiana and Saidov, Marat and Fenogenova, Alena and Tumanov, Aleksandr and Zemlyakova, Alina and Lebedeva, Anna and Gryaznova, Ekaterina and Shavrina, Tatiana and Mikhailov, Vladislav and Artemova, Ekaterina},
+  journal={Natural Language Processing},
+  volume={31},
+  number={1},
+  pages={150--175},
+  year={2025},
+  publisher={Cambridge University Press}
+}
+```
+
+```
+@article{shamardina2022findings,
+  title={Findings of the the ruatd shared task 2022 on artificial text detection in russian},
+  author={Shamardina, Tatiana and Mikhailov, Vladislav and Chernianskii, Daniil and Fenogenova, Alena and Saidov, Marat and Valeeva, Anastasiya and Shavrina, Tatiana and Smurov, Ivan and Tutubalina, Elena and Artemova, Ekaterina},
+  journal={arXiv preprint arXiv:2206.01583},
+  year={2022}
+}
+```
 
 
 ## Мотивация
